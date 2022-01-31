@@ -1,0 +1,54 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Supermercado One', cursive;
+  font-size: 25px;
+}
+.profile-pic {
+  width: 200px;
+}
+
+ h1 {
+   margin: 50px;
+   font-size: 5.625rem;
+   font-family: 'Dancing Script', cursive;
+ }
+
+ h2{
+   font-size:2.5rem;
+ }
+
+  p{
+    font-weight: bold;
+  }
+
+.top-container  {
+  background-color: #C0D8C0;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color:#7897AB;
+  height: auto;
+  width: auto;
+}
+.bottom-container {
+  background-color:#8B9A46;
+  height: auto;
+  width: auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.Nice {
+  text-decoration: underline;
+}
